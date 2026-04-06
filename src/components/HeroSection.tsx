@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { ChevronLeft, ChevronRight } from "lucide-react";
-import venueAerial from "@/assets/venue-aerial2.jpg";
+import venueAerial from "@/assets/venue-aerial.jpg";
 import hallInterior from "@/assets/hall-interior.jpg";
 import stageDecor from "@/assets/stage-decor2.jpg";
 
